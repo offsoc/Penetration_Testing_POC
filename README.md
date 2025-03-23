@@ -2591,6 +2591,13 @@
 - [微信“邀请加入群聊”钓鱼卡片简析](./books/微信“邀请加入群聊”钓鱼卡片简析.html)
 - [记一次绕过阿里云waf与某不知名waf的双waf上传getshell](./books/记一次绕过阿里云waf与某不知名waf的双waf上传getshell.html)
 - [针对Green VPN及加密文件的逆向实战分析](./books/针对Green%20VPN及加密文件的逆向实战分析.html)
+- [万户OA ajax_checkUserNum.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-ajax_checkUserNum-sqli.html)
+- [万户OA selectAmountField.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-selectAmountField-sqli.html)
+- [万户OA DocumentHistory.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-DocumentHistory-sqli.html)
+- [用友U8 Cloud QuerySoapServlet SQL注入漏洞](https://mrxn.net/jswz/yonyou-u8cloud-QuerySoapServlet-sqli.html)
+- [万户OA getNextAutoCode.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-getNextAutoCode-sqli.html)
+- [蓝凌智慧协同平台 fl_define_edit.aspx SQL注入漏洞](https://mrxn.net/jswz/landray-eis-fl_define_edit-sqli.html)
+- [泛微OA ReceiveTodoRequestByXml XML实体注入漏洞](https://mrxn.net/jswz/e-cology-ReceiveTodoRequestByXml-xmlToMap-XXE.html)
 
 ## <span id="head9"> 说明</span>
 
