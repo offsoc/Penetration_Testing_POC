@@ -2598,6 +2598,15 @@
 - [万户OA getNextAutoCode.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-getNextAutoCode-sqli.html)
 - [蓝凌智慧协同平台 fl_define_edit.aspx SQL注入漏洞](https://mrxn.net/jswz/landray-eis-fl_define_edit-sqli.html)
 - [泛微OA ReceiveTodoRequestByXml XML实体注入漏洞](https://mrxn.net/jswz/e-cology-ReceiveTodoRequestByXml-xmlToMap-XXE.html)
+- [万户OA public/iSignatureHTML.jsp/Service.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-Service-sqli.html)
+- [万户OA selectPopTable.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-selectPopTable-sqli.html)
+- [万户OA govdocumentmanager_sendfile_gd.jsp SQL注入漏洞](https://mrxn.net/jswz/defaultroot-ezOFFICE-govdocumentmanager_sendfile_gd-sqli.html)
+- [蓝凌EKP sys/webservice/elecPsealUseWebService 文件读取漏洞](https://mrxn.net/jswz/landray-ekp-sys-webservice-sqli.html)
+- [百卓Smart管理平台 autheditpwd.php SQL注入漏洞](https://mrxn.net/jswz/baizhuosmart-autheditpwd-sqli.html)
+- [百卓Smart管理平台 licence.php 文件上传漏洞](https://mrxn.net/jswz/baizhuosmart-licence-rce.html)
+- [百卓Smart管理平台 uploadfile.php 文件上传漏洞](https://mrxn.net/jswz/baizhuosmart-uploadfile-rce.html)
+- [百卓Smart管理平台 useratte/layer_swich_conf.php 任意文件删除漏洞](https://mrxn.net/jswz/baizhuosmart-useratte-layer_swich_conf-filedel.html)
+
 
 ## <span id="head9"> 说明</span>
 
